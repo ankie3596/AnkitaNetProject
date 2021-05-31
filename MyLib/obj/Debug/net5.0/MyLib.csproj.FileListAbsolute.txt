@@ -1,0 +1,12 @@
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\bin\Debug\net5.0\MyLib.deps.json
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\bin\Debug\net5.0\MyLib.dll
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\bin\Debug\net5.0\MyLib.pdb
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.csprojAssemblyReference.cache
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.dll
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+E:\TCS Learning\AnkitaDotNetProject\Ankita_NetProject2\MyLib\obj\Debug\net5.0\MyLib.pdb
